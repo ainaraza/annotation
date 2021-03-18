@@ -1,0 +1,4 @@
+[type="checkbox"].white:checked + span:not(.lever)::before{
+	border-right: 2px solid white;
+	border-bottom: 2px solid white;
+}
